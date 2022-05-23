@@ -46,9 +46,10 @@ body{
   
   .centro {
       display: inline-flex;
+      justify-content: center;
       
   }
-  .container1 .container2 {
+  .container1 .container2 .intro{
     
     justify-content: center;
 }
