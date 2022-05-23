@@ -48,7 +48,7 @@ body{
       display: inline-flex;
       
   }
-  .container1 {
+  .container1 .container2 {
     
     justify-content: center;
 }
