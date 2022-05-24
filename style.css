@@ -114,12 +114,13 @@ body{
   .center{
     display: inline-flex;
     justify-content: center;
+    width: 100%;
   
   }
   .pics {
    
     width: 1000px;
-    display: flex;
+    display: inline-flex;
     flex-wrap: wrap;
     justify-content: center;
     
