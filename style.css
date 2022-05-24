@@ -37,18 +37,12 @@ body{
   }
   
   .centro {
-      display: flex;
+      display: inline-flex;
       justify-content: center;
       align-items: center;
       width: 100%;
       
 
-}
-
-main {
-  display: inline-block;
-      justify-content: center;
-      align-items: center;
 }
 
 
@@ -90,6 +84,7 @@ main {
   .intro {
     display: inline-flex;
     justify-content: center;
+    width: 100%;
   }
   
   li {
@@ -117,7 +112,7 @@ main {
   }
 
   .center{
-    display: flex;
+    display: inline-flex;
     justify-content: center;
   
   }
