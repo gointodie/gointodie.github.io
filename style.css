@@ -51,9 +51,15 @@ body{
 
 }
 
-.intro .container2 .container1 {
+.intro {
+  display: flex;
+      justify-content: center;
+}
+
+.container2 .container1 {
   
   justify-content: center;
+  width: 100%;
   
   
 
