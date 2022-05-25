@@ -192,6 +192,24 @@ body{
     justify-content: center;
     vertical-align: middle;
   }
+
+  .contact {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .info {
+    height: 200px;
+    justify-content: center;
+    vertical-align: middle;
+    display: flex;
+    flex-flow: column wrap;
+    margin: 0;
+  }
+  .info h2, .info h5{
+    margin: 15px auto;
+  }
   main{
     display: inline-block;
     align-items: center;
